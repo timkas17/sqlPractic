@@ -1,0 +1,1 @@
+INSERT INTO employees (id, fullName, department, salary) VALUES ('5', 'Валера Шевченко Николаевич', '7', '30000');
